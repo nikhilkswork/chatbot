@@ -94,7 +94,7 @@ To use the Cloud functionality:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Developed by [Nikhil](https://github.com/YOUR_USERNAME)**
+**Developed by [Nikhil](https://github.com/nikhilkswork)**
 ```
 
 **Next step:** Since your documentation is ready, would you like me to generate a clean `.gitignore` file so you don't accidentally upload 100MB of virtual environment folders to your GitHub?
